@@ -194,7 +194,7 @@
 0.0.0.0	data2.origin.com
 0.0.0.0	data4.origin.com
 0.0.0.0	datarouter.ol.epicgames.com
-0.0.0.0 datarouter-prod.ak.epicgames.com
+0.0.0.0	datarouter-prod.ak.epicgames.com
 0.0.0.0	dayofdefeat.com
 0.0.0.0	dayofdefeat1.com
 0.0.0.0	dayofdefeat1.net
