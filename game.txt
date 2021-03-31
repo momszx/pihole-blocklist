@@ -1090,3 +1090,17 @@
 0.0.0.0	xsts.auth.xboxlive.com
 0.0.0.0	zh-cn.socialclub.rockstargames.com
 0.0.0.0	zh.socialclub.rockstargames.com
+0.0.0.0 roblox.com
+0.0.0.0 ephemeralcounters.api.roblox.com
+0.0.0.0 realtime.roblox.com
+0.0.0.0 ecsv2.roblox.com
+0.0.0.0 avatar.roblox.com
+0.0.0.0 apis.roblox.com
+0.0.0.0 assetdelivery.roblox.com
+0.0.0.0 gameinternationalization.roblox.com
+0.0.0.0 abtesting.roblox.com
+0.0.0.0 thumbnails.roblox.com
+0.0.0.0 assetgame.roblox.com
+0.0.0.0 client-telemetry.roblox.com
+0.0.0.0 auth.roblox.com
+0.0.0.0 clientsettingscdn.roblox.com
