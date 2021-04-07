@@ -28,7 +28,6 @@
 0.0.0.0	api.ec.nintendo.com
 0.0.0.0	api.overwatchleague.com
 0.0.0.0	api.steampowered.com
-0.0.0.0	api.twitch.tv
 0.0.0.0	api1.origin.com
 0.0.0.0	api2.origin.com
 0.0.0.0	api3.origin.com
@@ -299,7 +298,6 @@
 0.0.0.0	goclecd.fr
 0.0.0.0	gog.com
 0.0.0.0	gogalaxy.com
-0.0.0.0	gql.twitch.tv
 0.0.0.0	greenlightupdates.com
 0.0.0.0	greenmangaming.com
 0.0.0.0	groupees.com
@@ -652,7 +650,6 @@
 0.0.0.0	titlehub.xboxlive.com
 0.0.0.0	tracking.epicgames.com
 0.0.0.0	truesteamachievements.com
-0.0.0.0	twitch.tv
 0.0.0.0	ubi.com
 0.0.0.0	ubisoft.com
 0.0.0.0	ubistatic2-a.akamaihd.net
@@ -1073,7 +1070,6 @@
 0.0.0.0	www.teamspeak.com
 0.0.0.0	www.thefunkygibbon.net
 0.0.0.0	www.thewheelhaus.com
-0.0.0.0	www.twitch.tv
 0.0.0.0	www.ubisoft.com
 0.0.0.0	www.uplay.ubi.com
 0.0.0.0	www.valvesoftware.com
