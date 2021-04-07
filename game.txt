@@ -48,8 +48,7 @@
 0.0.0.0	avatar.roblox.com
 0.0.0.0	backloggery.com
 0.0.0.0	barter.vg
-0.0.0.0	battle.net
-0.0.0.0	best.discord.media
+0.0.0.0	battle.net	
 0.0.0.0	beta.steamcommunity.com
 0.0.0.0	bigbeans.solutions
 0.0.0.0	bladeandsoul.com
@@ -118,7 +117,6 @@
 0.0.0.0	cdn-01.steampowered.com
 0.0.0.0	cdn.akamai.steamstatic.com
 0.0.0.0	cdn.beta.steampowered.com
-0.0.0.0	cdn.discordapp.com
 0.0.0.0	cdn.steamcommunity.com
 0.0.0.0	cdn.steampowered.com
 0.0.0.0	cdn.store.steampowered.com
@@ -216,12 +214,6 @@
 0.0.0.0	deal.kinguin.net
 0.0.0.0	deathmatchclassic.com
 0.0.0.0	developer.valvesoftware.com
-0.0.0.0	dis.gd
-0.0.0.0	discord.co
-0.0.0.0	discord.com
-0.0.0.0	discord.gg
-0.0.0.0	discord.media
-0.0.0.0	discordapp.com
 0.0.0.0	dispenser.tf
 0.0.0.0	dl.tnt.gameforge.com
 0.0.0.0	dlassets-ssl.xboxlive.com
@@ -298,7 +290,6 @@
 0.0.0.0	gamesradar.com
 0.0.0.0	gamingdragons.com
 0.0.0.0	gamivo.com
-0.0.0.0	gateway.discord.gg
 0.0.0.0	gds1.steampowered.com
 0.0.0.0	gds2.steampowered.com
 0.0.0.0	gds3.steampowered.com
@@ -357,8 +348,6 @@
 0.0.0.0	ign.com
 0.0.0.0	iir.blizzard.com
 0.0.0.0	images-eds.xboxlive.com
-0.0.0.0	images-ext-1.discordapp.net
-0.0.0.0	images-ext-2.discordapp.net
 0.0.0.0	indiegala.com
 0.0.0.0	install.gameforge.com
 0.0.0.0	instant-gaming.com
@@ -402,7 +391,6 @@
 0.0.0.0	marketplace.tf
 0.0.0.0	media-rockstargames-com.akamaized.net
 0.0.0.0	media.contentapi.ea.com
-0.0.0.0	media.discordapp.net
 0.0.0.0	media.steamcommunity.com
 0.0.0.0	media.steampowered.com
 0.0.0.0	media1.steampowered.com
@@ -535,7 +523,6 @@
 0.0.0.0	starcraft.com
 0.0.0.0	starcraft2.com
 0.0.0.0	static.playstation.com
-0.0.0.0	status.discordapp.com
 0.0.0.0	status.leagueoflegends.com
 0.0.0.0	status.playstation.com
 0.0.0.0	steam-backlog.com
