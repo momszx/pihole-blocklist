@@ -137,6 +137,8 @@
 0.0.0.0	client-telemetry.roblox.com
 0.0.0.0	clientconfig.akamai.steamstatic.com
 0.0.0.0	clientconfig.rpg.riotgames.com
+0.0.0.0 ekg.riotgames.com
+0.0.0.0 eune.ledge.leagueoflegends.com
 0.0.0.0	clientsettingscdn.roblox.com
 0.0.0.0	cloud-2.steampowered.com
 0.0.0.0	cloud-3.steampowered.com
